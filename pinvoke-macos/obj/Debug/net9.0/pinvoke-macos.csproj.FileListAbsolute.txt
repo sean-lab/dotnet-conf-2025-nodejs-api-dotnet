@@ -1,0 +1,15 @@
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/bin/Debug/net9.0/pinvoke-macos
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/bin/Debug/net9.0/pinvoke-macos.deps.json
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/bin/Debug/net9.0/pinvoke-macos.runtimeconfig.json
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/bin/Debug/net9.0/pinvoke-macos.dll
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/bin/Debug/net9.0/pinvoke-macos.pdb
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.AssemblyInfoInputs.cache
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.AssemblyInfo.cs
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.csproj.CoreCompileInputs.cache
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.sourcelink.json
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.dll
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/refint/pinvoke-macos.dll
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.pdb
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/pinvoke-macos.genruntimeconfig.cache
+/Users/sanghyun.park/Dev/dotnet-conf-2025/dotnet-conf-2005-nodejs-api-dotnet/pinvoke-macos/obj/Debug/net9.0/ref/pinvoke-macos.dll
