@@ -1,7 +1,7 @@
-import dotnet from 'node-api-dotnet';
-
-async function main() {
+function logToDotnetConsole(): void {
     const dotnet = require('node-api-dotnet/net8.0');
-    dotnet.System.Console.WriteLine('Hello from Node.js!');
+    const Console = dotnet.System.Console;
+    Console.WriteLine('Hello .NET from Node.js!');
 }
-main().catch(console.error);
+
+logToDotnetConsole();
