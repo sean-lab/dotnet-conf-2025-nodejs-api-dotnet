@@ -1,0 +1,14 @@
+{
+  "name": "js-dotnet",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node dist/app.js"
+  },
+  "author": "sean park",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "node-api-dotnet": "^0.8.19"
+  }
+}
