@@ -1,0 +1,20 @@
+{
+  "name": "ts-dotnet-intellisense",
+  "version": "1.0.0",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "keywords": [],
+  "author": "sean park",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "node-api-dotnet": "^0.8.19"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}
