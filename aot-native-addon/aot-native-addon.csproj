@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>aot_native_addon</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PublishAot>true</PublishAot> 
+    <PublishNodeModule>true</PublishNodeModule> 
+    <PublishDir>bin</PublishDir>
+    <RuntimeIdentifier>osx-arm64</RuntimeIdentifier> <!-- 추가된 부분 -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.JavaScript.NodeApi" Version="0.8.16" />
+    <PackageReference Include="Microsoft.JavaScript.NodeApi.Generator" Version="0.8.16" />
+  </ItemGroup>
+
+</Project>
